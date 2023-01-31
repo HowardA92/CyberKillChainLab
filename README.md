@@ -54,15 +54,16 @@ Once you download the files, type "exit" to quit the FTP client.  <br/>
 <img src="https://i.imgur.com/AhW35JP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Next, we're going to display the contents of the file "secret.txt" using the command "cat secret.txt".  <br/>
+Next, we're going to display the contents of the file "secret.txt" using the command "cat secret.txt". We kept the password hidden so you can try it for yourself on tryhackme.com  <br/>
 <img src="https://i.imgur.com/dymNmhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+It must be the password of one of the accounts unintentionally copied to a public FTP server. Let's try it to see if it works with the root account. At the terminal, we type "ssh root@10.10.164.229". We will be asked for the password, so let's try the password we discovered in the FTP server.
+ You now have complete control over the target server. <br/>
+<img src="https://i.imgur.com/JzUk6Jh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+You now have complete control over the target server.   <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
