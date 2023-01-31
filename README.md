@@ -28,21 +28,18 @@ You will be writing all the commands in the terminal shown below.
 <br />
 <br />
 We can scan it by running nmap 10.10.164.229 at the terminal prompt.
- We just discovered three services running:
- 1.FTP server
- 2.SSH server
- 3.HTTP
- 
- You can also notice that Nmap reports on whether the host is up based on whether it receives any response from it. This is useful to knowwhen no ports are open or accessible.<br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ We just discovered three services running; FTP server, SSH server, and HTTP.
+ You can also notice that Nmap reports on whether the host is up based on whether it receives any response from it. This is useful to know when no ports are open or accessible.<br/>
+<img src="https://i.imgur.com/oQ4187R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Let's gather more information about the FTP server.
+ 1. We will connect to the target FTP server by typing "ftp 10.10.164.229"<br/>
+<img src="https://i.imgur.com/aRwqqEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Next, we will try to log in using the login "anonymous" to see if this FTP server supports anonymous logins.  <br/>
+<img src="https://i.imgur.com/WjXOhgc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
