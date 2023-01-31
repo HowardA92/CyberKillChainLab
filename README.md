@@ -78,7 +78,15 @@ Let's collect a couple of flags. After logging in as root, we used the following
 <br />
 Because we're logged in as root, we have full access to all files, including other users' files. 
 Execute the following Linux commands:
- 1. "cd /home" to go to the directory containing all the users' home directories. 2. Run "ls" whiile in /home. 3. "cd librarian" to go to the user's directory. 4. "pwd" to confirm that we are at /home/librarian. 5. "ls" shows that librarian has a single file flag.txt. 6. Print the text file contents using "cat flag.txt". The contents were redacted so you can try the lab on your own.<br/>
+ 1. "cd /home" to go to the directory containing all the users' home directories. 
+ <br />
+ 2. Run "ls" whiile in /home. 3. "cd librarian" to go to the user's directory. 
+ <br />
+ 4. "pwd" to confirm that we are at /home/librarian. 
+ <br />
+ 5. "ls" shows that librarian has a single file flag.txt. 
+ <br />
+ 6. Print the text file contents using "cat flag.txt". The contents were redacted so you can try the lab on your own.<br/>
 <img src="https://i.imgur.com/vDKvDym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
