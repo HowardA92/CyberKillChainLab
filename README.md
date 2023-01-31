@@ -77,7 +77,9 @@ Let's collect a couple of flags. After logging in as root, we used the following
 <br />
 <br />
 Because we're logged in as root, we have full access to all files, including other users' files. 
+<br />
 Execute the following Linux commands:
+<br />
  1. "cd /home" to go to the directory containing all the users' home directories. 
  <br />
  2. Run "ls" whiile in /home. 3. "cd librarian" to go to the user's directory. 
