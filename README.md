@@ -54,6 +54,22 @@ Once you download the files, type "exit" to quit the FTP client.  <br/>
 <img src="https://i.imgur.com/AhW35JP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Next, we're going to display the contents of the file "secret.txt" using the command "cat secret.txt".  <br/>
+<img src="https://i.imgur.com/dymNmhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
