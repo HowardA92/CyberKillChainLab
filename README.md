@@ -63,8 +63,9 @@ It must be the password of one of the accounts unintentionally copied to a publi
 <img src="https://i.imgur.com/JzUk6Jh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-You now have complete control over the target server.   <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Let's collect a couple of flags. After logging in as root, we used the following Linux commands:
+ 1. "pwd" to see where we are in the system. We are in the /root directory.<br/>
+<img src="https://i.imgur.com/M8vUPEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
