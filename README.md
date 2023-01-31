@@ -90,6 +90,20 @@ Execute the following Linux commands:
  <br />
  6. Print the text file contents using "cat flag.txt". The contents were redacted so you can try the lab on your own.<br/>
 <img src="https://i.imgur.com/vDKvDym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Let's summarize what we have done in this task to get root access on the target system of IP address 10.10.164.229.
+ <br />
+ 1. We used "nmap" to learn about the running servies.
+ <br />
+ 2. We connected to the FTP server to learn more about its configuration.
+ <br />
+ 3. We discovered a file containing the root password mistakenly copied to a public folder. 
+ <br />
+ 4. We used the password we found, allowing us to log in successfully.
+ <br />
+ 5. We gained access to all the users' files.
+ .<br/>
 </p>
 
 <!--
