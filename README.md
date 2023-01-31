@@ -68,6 +68,18 @@ Let's collect a couple of flags. After logging in as root, we used the following
 <img src="https://i.imgur.com/M8vUPEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+2. "ls" to list the files.   <br/>
+<img src="https://i.imgur.com/jGmz9hn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+3. Use "cat flag.txt" to reveal the contents of the file. The contents were removed so you can reveal the answer on your own. <br/>
+<img src="https://i.imgur.com/4hvE4zC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
