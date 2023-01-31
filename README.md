@@ -27,13 +27,16 @@ You will be writing all the commands in the terminal shown below.
 <img src="https://i.imgur.com/0ccUEsH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-We can scan it by running nmap 10.10.164.229 at the terminal prompt.
+We can scan it by running "nmap 10.10.164.229" at the terminal prompt.
+<br />
  We just discovered three services running; FTP server, SSH server, and HTTP.
+ <br />
  You can also notice that Nmap reports on whether the host is up based on whether it receives any response from it. This is useful to know when no ports are open or accessible.<br/>
 <img src="https://i.imgur.com/oQ4187R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Let's gather more information about the FTP server.
+<br />
  1. We will connect to the target FTP server by typing "ftp 10.10.164.229"<br/>
 <img src="https://i.imgur.com/aRwqqEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
