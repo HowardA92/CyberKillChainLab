@@ -72,24 +72,14 @@ Let's collect a couple of flags. After logging in as root, we used the following
 <img src="https://i.imgur.com/jGmz9hn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-3. Use "cat flag.txt" to reveal the contents of the file. The contents were removed so you can reveal the answer on your own. <br/>
+3. Use "cat flag.txt" to reveal the contents of the file. The contents were redacted so you can reveal the answer on your own. <br/>
 <img src="https://i.imgur.com/4hvE4zC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Because we're logged in as root, we have full access to all files, including other users' files. 
+Execute the following Linux commands:
+ 1. "cd /home" to go to the directory containing all the users' home directories. 2. Run "ls" whiile in /home. 3. "cd librarian" to go to the user's directory. 4. "pwd" to confirm that we are at /home/librarian. 5. "ls" shows that librarian has a single file flag.txt. 6. Print the text file contents using "cat flag.txt". The contents were redacted so you can try the lab on your own.<br/>
+<img src="https://i.imgur.com/vDKvDym.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
