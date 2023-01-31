@@ -18,7 +18,7 @@ In this lab, we're going to practice hacking into a target server using Linux.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Start the terminal by clicking on the terminal icon shown in the image below. <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
