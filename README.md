@@ -42,8 +42,20 @@ Let's gather more information about the FTP server.
 <img src="https://i.imgur.com/WjXOhgc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. We try to see the files available using the command "ls".  <br/>
+<img src="https://i.imgur.com/u3LO9du.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+4. We're going to download the file secret.txt by using the command "get secret.txt".  <br/>
+<img src="https://i.imgur.com/UKjL4el.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Once you download the files, type "exit" to quit the FTP client.  <br/>
+<img src="https://i.imgur.com/AhW35JP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
